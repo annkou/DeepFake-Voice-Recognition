@@ -162,4 +162,5 @@ cython_debug/
 AUDIO/
 DEMONSTRATION/
 CLEAN_AUDIO/
+mfcc_images/
 
