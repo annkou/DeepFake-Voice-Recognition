@@ -163,4 +163,7 @@ AUDIO/
 DEMONSTRATION/
 CLEAN_AUDIO/
 mel_spectograms/
+results_dataset/
+# ignore all models .pth
+*.pth
 
