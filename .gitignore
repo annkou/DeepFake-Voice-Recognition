@@ -164,6 +164,7 @@ DEMONSTRATION/
 CLEAN_AUDIO/
 mel_spectograms/
 results_dataset/
+results_image/
 # ignore all models .pth
 *.pth
 
