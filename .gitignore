@@ -166,4 +166,4 @@ mel_spectograms/
 results_dataset/
 # ignore all models .pth
 *.pth
-
+celebrity_pictures/
