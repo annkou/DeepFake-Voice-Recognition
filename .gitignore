@@ -167,4 +167,4 @@ results_dataset/
 results_image/
 # ignore all models .pth
 *.pth
-
+celebrity_pictures/
