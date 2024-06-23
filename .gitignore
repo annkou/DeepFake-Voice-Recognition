@@ -168,3 +168,4 @@ results_image/
 # ignore all models .pth
 *.pth
 celebrity_pictures/
+best-model-reports/
