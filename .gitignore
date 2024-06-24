@@ -169,4 +169,6 @@ results_image/
 *.pth
 celebrity_pictures/
 best-model-reports/
+
 mel_spectograms_augmented/
+iframe_figures/
