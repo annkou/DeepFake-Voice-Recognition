@@ -172,3 +172,6 @@ best-model-reports/
 
 mel_spectograms_augmented/
 iframe_figures/
+
+saved_models/
+saved_models_augmented/
